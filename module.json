@@ -28,7 +28,7 @@
 	],
 	"url": "https://github.com/JeanPaulSR/jean-homebrew",
 	"manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json"
-	"download": "https://github.com/JeanPaulSR/jean-homebrew/archive/refs/heads/main.zip"
+	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/release-1.0.0/jean-homebrew-1-0-0.zip"
 
 }
   
