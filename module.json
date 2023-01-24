@@ -10,5 +10,32 @@
 		"maximum": "10"
 	},
 	"system": [ "dnd5e" ]
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"packs": [{
+			"name": "vessel",
+			"label": "Vessel",
+			"system": ["dnd5e"],
+			"path": "packs/vessel.db",
+			"entity": "Item",
+			"module": "jean-homebrew"
+		},
+		{
+			"name": "spells",
+			"label": "Spells",
+			"system": ["dnd5e"],
+			"path": "packs/spells.db",
+			"entity": "Item",
+			"module": "jean-homebrew"
+		}
+	],
+	"url": "https://github.com/JeanPaulSR/jean-homebrew",
+	"manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json"
+
 }
   
