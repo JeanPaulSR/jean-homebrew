@@ -2,9 +2,7 @@
 	"id": "jean-homebrew",
 	"title": "Jean's Homebrew",
 	"description": "Jean's allowed homebrew",
-	"authors": [{
-		"name": "Jean"
-	}],
+	"authors": "Jean",
 	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "10.274",
@@ -16,7 +14,7 @@
 			"name": "vessel",
 			"label": "Vessel",
 			"system": ["dnd5e"],
-			"path": "./packs/vessel.db",
+			"path": "packs/vessel.db",
 			"entity": "Item",
 			"module": "jean-homebrew"
 		},
@@ -24,7 +22,7 @@
 			"name": "spells",
 			"label": "Spells",
 			"system": ["dnd5e"],
-			"path": "./packs/spells.db",
+			"path": "packs/spells.db",
 			"entity": "Item",
 			"module": "jean-homebrew"
 		}
