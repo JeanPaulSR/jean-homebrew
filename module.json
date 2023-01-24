@@ -9,23 +9,6 @@
 		"verified": "10.291",
 		"maximum": "10"
 	},
-	"system": [ "dnd5e" ],
-	"packs": [{
-			"name": "vessel",
-			"label": "Vessel",
-			"system": ["dnd5e"],
-			"path": "packs/vessel.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		},
-		{
-			"name": "spells",
-			"label": "Spells",
-			"system": ["dnd5e"],
-			"path": "packs/spells.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		}
-	]
+	"system": [ "dnd5e" ]
 }
   
