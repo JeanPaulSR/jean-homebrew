@@ -3,7 +3,7 @@
 	"title": "Jean's Homebrew",
 	"description": "Jean's allowed homebrew",
 	"authors": "Jean",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"compatibility": {
 		"minimum": "10.274",
 		"verified": "10.291",
