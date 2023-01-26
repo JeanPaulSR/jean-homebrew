@@ -3,7 +3,7 @@
 	"title": "Jean's Homebrew",
 	"description": "Jean's allowed homebrew",
 	"authors": "Jean",
-	"version": "1.0.5",
+	"version": "1.1.0",
 	"compatibility": {
 		"minimum": "10.274",
 		"verified": "10.291",
@@ -28,7 +28,7 @@
 	],
 	"url": "https://github.com/JeanPaulSR/jean-homebrew",
 	"manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json",
-	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.0.5/jean-homebrew-1-0-5.zip"
+	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.0/jean-homebrew-1-1-0.zip"
 
 }
   
