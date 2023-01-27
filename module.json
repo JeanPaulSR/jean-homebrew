@@ -3,7 +3,7 @@
 	"title": "Jean's Homebrew",
 	"description": "Jean's allowed homebrew",
 	"authors": "Jean",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"compatibility": {
 		"minimum": "10.274",
 		"verified": "10.291",
@@ -40,11 +40,19 @@
 			"path": "packs/spells.db",
 			"entity": "Item",
 			"module": "jean-homebrew"
+		},
+		{
+			"name": "uah-spells",
+			"label": "UAH Spells",
+			"system": ["dnd5e"],
+			"path": "packs/uah-spells.db",
+			"entity": "Item",
+			"module": "jean-homebrew"
 		}
 	],
 	"url": "https://github.com/JeanPaulSR/jean-homebrew",
 	"manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json",
-	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.0/jean-homebrew-1-1-0.zip"
+	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.1/jean-homebrew-1-1-1.zip"
 
 }
   
