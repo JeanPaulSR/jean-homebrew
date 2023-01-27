@@ -18,6 +18,22 @@
 			"module": "jean-homebrew"
 		},
 		{
+			"name": "classes",
+			"label": "Homebrew Classes",
+			"system": ["dnd5e"],
+			"path": "packs/classes.db",
+			"entity": "Item",
+			"module": "jean-homebrew"
+		},
+		{
+			"name": "accursed",
+			"label": "Accursed",
+			"system": ["dnd5e"],
+			"path": "packs/accursed.db",
+			"entity": "Item",
+			"module": "jean-homebrew"
+		},
+		{
 			"name": "spells",
 			"label": "Spells",
 			"system": ["dnd5e"],
