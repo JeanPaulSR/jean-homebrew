@@ -1,58 +1,67 @@
 {
-	"id": "jean-homebrew",
-	"title": "Jean's Homebrew",
-	"description": "Jean's allowed homebrew",
-	"authors": "Jean",
-	"version": "1.1.1",
-	"compatibility": {
-		"minimum": "9",
-		"verified": "10.291",
-		"maximum": "10"
-	},
-	"packs": [{
-			"name": "vessel",
-			"label": "Vessel",
-			"system": ["dnd5e"],
-			"path": "packs/vessel.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		},
-		{
-			"name": "classes",
-			"label": "Homebrew Classes",
-			"system": ["dnd5e"],
-			"path": "packs/classes.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		},
-		{
-			"name": "accursed",
-			"label": "Accursed",
-			"system": ["dnd5e"],
-			"path": "packs/accursed.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		},
-		{
-			"name": "spells",
-			"label": "Spells",
-			"system": ["dnd5e"],
-			"path": "packs/spells.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		},
-		{
-			"name": "uah-spells",
-			"label": "UAH Spells",
-			"system": ["dnd5e"],
-			"path": "packs/uah-spells.db",
-			"entity": "Item",
-			"module": "jean-homebrew"
-		}
-	],
-	"url": "https://github.com/JeanPaulSR/jean-homebrew",
-	"manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json",
-	"download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.1/jean-homebrew-1-1-1.zip"
-
+  "id": "jean-homebrew",
+  "title": "Jean's Homebrew",
+  "description": "Jean's allowed homebrew",
+  "authors": [
+    {
+      "name": "Jean",
+      "flags": {}
+    }
+  ],
+  "version": "1.1.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.291",
+    "maximum": "10"
+  },
+  "packs": [
+    {
+      "name": "vessel",
+      "label": "Vessel",
+      "path": "packs/vessel.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "classes",
+      "label": "Homebrew Classes",
+      "path": "packs/classes.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "accursed",
+      "label": "Accursed",
+      "path": "packs/accursed.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "path": "packs/spells.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "uah-spells",
+      "label": "UAH Spells",
+      "path": "packs/uah-spells.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/JeanPaulSR/jean-homebrew",
+  "manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json",
+  "download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.1/jean-homebrew-1-1-1.zip"
 }
-  
