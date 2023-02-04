@@ -8,7 +8,7 @@
       "flags": {}
     }
   ],
-  "version": "1.1.3",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "9",
     "verified": "10.291",
@@ -63,5 +63,5 @@
   ],
   "url": "https://github.com/JeanPaulSR/jean-homebrew",
   "manifest": "https://raw.githubusercontent.com/JeanPaulSR/jean-homebrew/main/module.json",
-  "download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.1.3/jean-homebrew-1-1-3.zip"
+  "download": "https://github.com/JeanPaulSR/jean-homebrew/releases/download/v1.2.0/jean-homebrew-1-2-0.zip"
 }
